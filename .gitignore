@@ -1,0 +1,44 @@
+# Python bytecode and caches
+cozydownloader/**/__pycache__/
+cozydownloader/**/*.py[cod]
+cozydownloader/**/*$py.class
+
+# Virtual environments
+cozydownloader/.venv/
+cozydownloader/venv/
+cozydownloader/env/
+cozydownloader/ENV/
+
+# Build and packaging artifacts
+cozydownloader/build/
+cozydownloader/dist/
+cozydownloader/*.egg-info/
+cozydownloader/*.spec.bak
+
+# PyInstaller intermediate/generated files
+cozydownloader/*.manifest
+cozydownloader/*.toc
+cozydownloader/*.pyz
+
+# Test and coverage outputs
+cozydownloader/.pytest_cache/
+cozydownloader/.coverage
+cozydownloader/.coverage.*
+cozydownloader/htmlcov/
+
+# IDE/editor settings
+cozydownloader/.vscode/
+cozydownloader/.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project runtime data
+cozydownloader/config/download_history.json
+
+# Generated installer artifacts
+cozydownloader/installer/*.exe
+cozydownloader/Cozydownloader.iss
+cozydownloader/Cozydownloader.spec
+cozydownloader/build_exe.ps1
