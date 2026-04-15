@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>meow.png</file>
+    <file>settingsother.png</file>
+    <file>sun.png</file>
+    <file>moon.png</file>
+    <file>downloads2.png</file>
+    <file>back.png</file>
+    <file>downloads.png</file>
+    <file>settings.png</file>
+    <file>kuddos.png</file>
+    <file>uiwritters.png</file>
+    <file>Github_icon.png</file>
+  </qresource>
+</RCC>
