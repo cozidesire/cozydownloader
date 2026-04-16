@@ -1,6 +1,7 @@
 # Cozydownloader
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/cozidesire/cozydownloader)](#)
-[![GitHub release (latest by date)](https://img.shields.io/github/downloads/cozidesire/cozydownloader/total)](#)
+![GitHub Release](https://img.shields.io/github/v/release/cozidesire/cozydownloader)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/cozidesire/cozydownloader/total)
+
 
 ### Front-end application for [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - #### For downloading media(videos, audios) from diferent websites ⬇️🎥  
