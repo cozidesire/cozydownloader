@@ -16,14 +16,14 @@
 - Cookie supported
 - Download history
 ### Screenshots
-<img src="Screenshots/Screenshot mainpage.png" width="630"/>
+<img src="Screenshots/Screenshot_mainpage.png" width="630"/>
 
-<img src="Screenshots/Screenshot preview.png" width="630"/>
+<img src="Screenshots/Screenshot_preview.png" width="630"/>
 
-<img src="Screenshots/Screenshot history.png" width="630"/>
-
-<img src="Screenshots/Screenshot settings D.png" width="400"/>
-<img src="Screenshots/Screenshot settings L.png" width="400"/>
+<img src="Screenshots/Screenshot_history.png" width="630"/>
+<p align="center">
+    <img src="Screenshots/Screenshot_settings.png" width="400" height="240"/>
+</p>
 
 
 ### Requirements
