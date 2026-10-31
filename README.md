@@ -16,6 +16,14 @@
 - Settings supported
 - Cookie supported
 - Download history
+
+### Updates
+- REMBER TO UPDATE THE yt-dlp LIBRARY EVERY SO OFTEN TO KEEP IT WORKING
+```bash
+pip install --upgrade yt-dlp
+```
+(if installed with pip)
+
 ### Screenshots
 <img src="Screenshots/Screenshot_mainpage.png" width="630"/>
 
